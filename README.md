@@ -8,10 +8,15 @@ Swiggy_Data Engineering Project: Built an end-to-end Snowflake Data Warehouse us
 End-to-end Snowflake Data Warehouse project for food delivery analytics.
 
 ## Technologies
-- Snowflake
-- SQL
-- AWS S3
-- Streamlit
+• Snowflake
+• SQL
+• Streamlit
+• Data Warehousing
+• SCD Type 2
+• Star Schema
+• Fact & Dimension Modeling
+• Metadata Management
+• ETL / ELT
 
 ## Architecture
 Stage → Clean → Consumption
